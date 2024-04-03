@@ -2,11 +2,13 @@ package GIT.java;
 
 public class gcode {
 
+public static void main(String[] args) {
 	
-	
-	public static void main(String[] args) {
+	System.out.println("tiuna has done her work");
+
 		
 		
 		System.out.println(" master completed");
 	}
+
 }
